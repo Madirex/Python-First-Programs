@@ -9,12 +9,6 @@ Una serie de programas básicos escritos en Python
 
 <p align="center">
   <a href="#">
-    <img src="https://i.imgur.com/MvFA5XL.png" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="#">
-    <img src="https://i.imgur.com/za9Ntxa.png" />
+    <img src="https://i.imgur.com/DftMhh7.png" />
   </a>
 </p>
