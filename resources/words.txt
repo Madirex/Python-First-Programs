@@ -1,0 +1,10 @@
+teclado
+suelo
+tejado
+pared
+tijera
+perro
+raíl
+ratón
+estuche
+rata
