@@ -57,10 +57,10 @@ def search(search_word):
 if __name__ == '__main__':
     exit = False
     while exit == False:
-        print("\nPresiona (0) para salir del programa.")
-        print("Presiona (1) para consultar una definición.")
-        print("Presiona (2) para introducir una nueva definición.")
-        print("Presiona (3) para borrar una definición.\n")
+        print("\nEscribe (0) para salir del programa.")
+        print("Escribe (1) para consultar una definición.")
+        print("Escribe (2) para introducir una nueva definición.")
+        print("Escribe (3) para borrar una definición.\n")
     
         menu_opt = int(input())
 
