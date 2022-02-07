@@ -58,11 +58,11 @@ if __name__ == "__main__":
     exit = False
     dictionary = Dictionary()
     while exit == False:
-        print("\nPresiona (0) para salir del programa.")
-        print("Presiona (1) para consultar una definición.")
-        print("Presiona (2) para introducir una nueva definición.")
-        print("Presiona (3) para borrar una definición.")
-        print("Presiona (4) para exportar las definiciones.\n")
+        print("\nEscribe (0) para salir del programa.")
+        print("Escribe (1) para consultar una definición.")
+        print("Escribe (2) para introducir una nueva definición.")
+        print("Escribe (3) para borrar una definición.")
+        print("Escribe (4) para exportar las definiciones.\n")
     
         menu_opt = int(input())
 
