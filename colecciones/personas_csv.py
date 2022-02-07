@@ -5,9 +5,9 @@ path_people = "resources/people.csv"
 exit = False
 
 while exit == False:
-    print("\nPresiona (0) para salir del programa.")
-    print("Presiona (1) para introducir una nueva persona.")
-    print("Presiona (2) para mostrar una persona al azar.\n")
+    print("\nEscribe (0) para salir del programa.")
+    print("Escribe (1) para introducir una nueva persona.")
+    print("Escribe (2) para mostrar una persona al azar.\n")
     
     menu_opt = int(input())
     if menu_opt == 0:
