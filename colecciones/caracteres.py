@@ -2,9 +2,9 @@ path_words = "resources/words.txt"
 exit = False
 
 while exit == False:
-    print("\nPresiona (0) para salir del programa.")
-    print("Presiona (1) para introducir una nueva palabra.")
-    print("Presiona (2) si quieres mostrar los nombres que tienen 5 o más caracteres.\n")
+    print("\nEscribe (0) para salir del programa.")
+    print("Escribe (1) para introducir una nueva palabra.")
+    print("Escribe (2) si quieres mostrar los nombres que tienen 5 o más caracteres.\n")
     
     menu_opt = int(input())
     if menu_opt == 0:
